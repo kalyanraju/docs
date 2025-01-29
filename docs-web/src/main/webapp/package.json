@@ -1,16 +1,16 @@
 {
   "name": "sismics-docs",
-  "description": "Lightweight document management system",
-  "readme": "See http://github.com/simics/docs for more informations.",
-  "license": "GPL-2.0",
+  "description": " document management system",
+  "readme": "",
+  "license": "",
   "version": "1.5.0",
   "repository": {
     "type": "git",
-    "url": "git://github.com/sismics/docs.git"
+    "url": ""
   },
   "apidoc": {
-    "name": "Teedy API",
-    "title": "Teedy API",
+    "name": "API",
+    "title": "API",
     "url": "/api",
     "template": {
       "withCompare": false,
